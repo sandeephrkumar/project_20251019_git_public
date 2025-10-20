@@ -17,4 +17,4 @@ def add_1(a, b):
     print(a + b +1)
 
 def add_2(a, b):
-    print(a + b +2)
+    print(a + b +22)
