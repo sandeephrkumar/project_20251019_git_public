@@ -12,3 +12,6 @@ def lower(string1):
 
 def upper(string1):
     print(string1.upper())
+
+def add_1(a, b):
+    print(a + b +1)
